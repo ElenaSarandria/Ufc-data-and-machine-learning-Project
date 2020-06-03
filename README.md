@@ -5,7 +5,7 @@ The task presented itself: build a machine learning model that would predict whi
 But how – and the steps toward machine prediction began
 
 - Questions to start
-Which model to use to help predict who’s going to win?
+0 Which model to use to help predict who’s going to win?
 What are some factors for the model – what does the data tell us? Age | weight | height | Win Streak
 What visualizers can we use to paint a picture? (visualizations such as Matplotlib)
 How can we interact with the data?
@@ -22,7 +22,7 @@ We found our dataset on kaggle: https://www.kaggle.com/calmdownkarma/ufcdataset?
 With over 800 columns and multiple empty spaces we analyzed, wrangled with and cleaned the data using jupyter notebook and pandas. 
 Reducing the data to 10 columns. For each corner: Previous wins, win streaks, age, height and weight
 
--Visualizations
+- Visualizations
 Some visualizations used included: Matplotlib & Plotly
 Exploring our data population we created some summary visualizations: (Note* weight=kg)
 Grouped box plots comparing age, streak and winner
