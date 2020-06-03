@@ -1,11 +1,11 @@
 # Ufc-data-and-machine-learning
 
-After reviewing different informative datasets, we stumbled across UFC fight data on kaggle. 
-The task presented itself: build a machine learning model that would predict which corner would win, the red or the blue?
-But how – and the steps toward machine prediction began
+- After reviewing different informative datasets, we stumbled across UFC fight data on kaggle. 
+- The task presented itself: build a machine learning model that would predict which corner would win, the red or the blue?
+- But how – and the steps toward machine prediction began
 
 - Questions to start
-* Which model to use to help predict who’s going to win?
+Which model to use to help predict who’s going to win?
 What are some factors for the model – what does the data tell us? Age | weight | height | Win Streak
 What visualizers can we use to paint a picture? (visualizations such as Matplotlib)
 How can we interact with the data?
